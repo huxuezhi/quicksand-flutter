@@ -1,6 +1,6 @@
 # quicksand
 
-娴佹矙Flutter寮�鍙戝伐鍏峰寘
+流沙Flutter开发工具包
 
 ## Getting Started
 
